@@ -17,8 +17,3 @@ ML engineer focused on production NLP systems, retrieval-augmented generation pi
 | Data Engineering | Pandas, NumPy, ETL scripting, SQLite |
 | Deployment | FastAPI, Flask, Vercel |
 | Experiment Tooling | Matplotlib, Seaborn, Tableau |
-
-## Contact
-
-[shahriyar.global@gmail.com](mailto:shahriyar.global@gmail.com)
-[linkedin.com/in/shahriyar-shahid-332652272](https://linkedin.com/in/shahriyar-shahid-33265227)
